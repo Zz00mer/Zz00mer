@@ -1,10 +1,5 @@
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BRA1NY&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20%26%20Network%20Administrator&descAlignY=55&descAlign=50" />
-</div>
-
-
 
 ## Hi there 👋
 
